@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pkl
+*.pyc
+
+dataset/*.zip
+venv/
+fraudTrain.csv
+fraudTest.csv
+*.csv
+venv/
+Task 2/fraudTrain.csv
+Task 2/fraudTest.csv
+*.csv
+Task1/Genre Classification Dataset/
+Task 2/*.csv
