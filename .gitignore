@@ -16,3 +16,5 @@ Task 2/fraudTest.csv
 *.csv
 Task1/Genre Classification Dataset/
 Task 2/*.csv
+Task3/Churn_Modelling.csv
+Task3/*.csv

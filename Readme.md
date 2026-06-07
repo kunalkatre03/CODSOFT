@@ -96,11 +96,49 @@ Actual Fraud → Predicted Fraud           : 1,102
 
 * Built an effective fraud detection system capable of distinguishing between legitimate and fraudulent transactions.
 * Achieved high predictive performance and demonstrated the practical application of Machine Learning in financial security and fraud prevention.
-### 🔄 Task 3: Customer Churn Prediction
+### ✅ Task 3: Customer Churn Prediction
 
-*Coming Soon*
+Developed a Machine Learning model to predict customer churn for a banking institution. The objective was to identify customers who are likely to leave the bank based on demographic and account-related information.
+
+**Key Features:**
+
+* Data preprocessing and cleaning
+* Handling categorical variables using Label Encoding and One-Hot Encoding
+* Feature selection and transformation
+* Customer churn prediction using Random Forest Classifier
+* Model evaluation using Accuracy Score and Classification Metrics
+
+**Technologies Used:**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Label Encoding
+* One-Hot Encoding
+* Random Forest Classifier
+
+**Features Used:**
+
+* Credit Score
+* Geography
+* Gender
+* Age
+* Tenure
+* Balance
+* Number of Products
+* Credit Card Status
+* Active Membership Status
+* Estimated Salary
+
+**Result:**
+
+* Achieved approximately **86.6% accuracy** on the test dataset.
+* Successfully identified customers likely to leave the bank.
+* Demonstrated the practical application of Machine Learning in customer retention and business analytics.
 
 ---
+
 
 ## Repository Structure
 
