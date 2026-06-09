@@ -138,7 +138,43 @@ Developed a Machine Learning model to predict customer churn for a banking insti
 * Demonstrated the practical application of Machine Learning in customer retention and business analytics.
 
 ---
+### ✅ Task 4: Spam SMS Detection
 
+Developed a Machine Learning model to classify SMS messages as Spam or Ham (Legitimate Messages) using Natural Language Processing (NLP) techniques.
+
+**Key Features:**
+
+- Text preprocessing and cleaning
+- Feature extraction using TF-IDF Vectorization
+- Spam message classification using Multinomial Naive Bayes
+- Model evaluation using Accuracy Score, Classification Report, and Confusion Matrix
+- Custom SMS prediction support
+
+**Technologies Used:**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TF-IDF Vectorizer
+- Multinomial Naive Bayes
+
+**Workflow:**
+
+- Data Cleaning
+- Label Encoding (Spam = 1, Ham = 0)
+- Train-Test Split
+- TF-IDF Feature Extraction
+- Model Training
+- Performance Evaluation
+
+**Result:**
+
+- Achieved high accuracy in detecting spam messages.
+- Successfully classified SMS messages as Spam or Ham.
+- Demonstrated the practical application of NLP and Machine Learning in text classification.
+
+---
 
 ## Repository Structure
 
